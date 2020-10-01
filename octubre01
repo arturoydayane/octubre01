@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/cool_runnings-296855521-mmed.jpg", JAMAICA BAJO CERO
+https://s11.netu.tv/download/apzxhF4hsbWqZYZOPcTbOw/1601590207/flv/api/files/videos/2020/10/01/1601576066nctjp.mp4
+
+#EXTINF:0  tvg-logo="https://pics.filmaffinity.com/el_infierno-441063580-mmed.jpg",El Infierno
+https://archive.org/download/ein-srregio/EInSRREGIO.mkv
+
+#EXTINF:0  tvg-logo="https://pics.filmaffinity.com/back_to_the_future-100822308-mmed.jpg",Volver al Futuro
+https://archive.org/download/qwerty_202001/qwerty.mkv
+
+#EXTINF:0  tvg-logo="https://pics.filmaffinity.com/back_to_the_future_part_ii-865007932-mmed.jpg",Volver al Futuro 2
+https://archive.org/download/qwerty2/qwerty2.mkv
+
+#EXTINF:0  tvg-logo="https://pics.filmaffinity.com/back_to_the_future_part_iii-223713634-mmed.jpg",Volver al Futuro 3
+https://archive.org/download/qwerty3/qwerty3.mkv
